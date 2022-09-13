@@ -1,4 +1,5 @@
 .DS_Store
+key/*
 keys/*
 data/uber/*
 data/uber/
